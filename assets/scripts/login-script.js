@@ -64,4 +64,3 @@ loginFormElement.addEventListener('submit', function(event) {
  
   }
 });
-
